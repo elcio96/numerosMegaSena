@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Numeros Mega-Sena</string>
+    <string name="apresentacao">Aperte para sortear</string>
+    <string name="sortear">Sortear</string>
+    <string name="numerosSorteados">Numeros Sorteados</string>
+    <string name="criador">Feito por: Elcio Caldeira Andrade</string>
+</resources>
